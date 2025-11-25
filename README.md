@@ -71,7 +71,7 @@ Rename display label to:
 Event logged by
 
 
-<img width="978" height="536" alt="Screenshot 2025-11-24 144120" src="https://github.com/user-attachments/assets/07bf9b14-1900-4912-8867-95d2ca131f1d" />
+<img width="1574" height="560" alt="Screenshot 2025-11-24 143451" src="https://github.com/user-attachments/assets/19dcd33a-c2d0-40b7-9469-82ef9abe0d44" />
 
 🔧 Step 8 — Add Logon Type
 
