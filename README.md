@@ -110,7 +110,8 @@ Remove all machine accounts (DC1$, WS001$, etc.)
 
 Ensure only Security channel logs are included
 
-<img width="474" height="556" alt="Screenshot 2025-11-24 141941" src="https://github.com/user-attachments/assets/cecbfbda-48f6-4453-ad13-74c688b92b1f" />
+<img width="978" height="536" alt="Screenshot 2025-11-24 144120" src="https://github.com/user-attachments/assets/3f920dfc-7be1-422b-bc95-fbc6b4175149" />
+<img width="982" height="715" alt="Screenshot 2025-11-24 144002" src="https://github.com/user-attachments/assets/c924d50d-b4b5-4ad7-a6ef-b6bfcbf6dfea" />
 
 
 🔧 Step 11 — Apply the Filter
