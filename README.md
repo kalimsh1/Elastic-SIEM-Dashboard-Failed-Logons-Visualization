@@ -139,7 +139,7 @@ Click Save, enter details such as:
 
 Title: SOC-Alerts
 
-Description: Dashboard created for HTB SOC Analyst Job-Role Path
+Description: Dashboard created for SOC Analyst Role
 
 Enable: Store time with dashboard
 
