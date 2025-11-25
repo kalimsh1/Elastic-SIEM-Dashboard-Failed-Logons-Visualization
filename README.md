@@ -92,7 +92,6 @@ Logon Type
 Under Metrics → add Count
 
 <img width="979" height="901" alt="Screenshot 2025-11-24 140731" src="https://github.com/user-attachments/assets/4591a07f-9a94-4886-9616-1578d8485282" />
-<img width="982" height="715" alt="Screenshot 2025-11-24 144002" src="https://github.com/user-attachments/assets/ea27f4e3-976c-4efb-9dd6-96e4b181f73c" />
 
 
 🔧 Step 10 — Exclude Computer Accounts
