@@ -111,14 +111,13 @@ Remove all machine accounts (DC1$, WS001$, etc.)
 Ensure only Security channel logs are included
 
 <img width="474" height="556" alt="Screenshot 2025-11-24 141941" src="https://github.com/user-attachments/assets/cecbfbda-48f6-4453-ad13-74c688b92b1f" />
-<img width="978" height="536" alt="Screenshot 2025-11-24 144120" src="https://github.com/user-attachments/assets/07bf9b14-1900-4912-8867-95d2ca131f1d" />
 
 
 🔧 Step 11 — Apply the Filter
 
 Click Update to refresh the view.
 
-📷 Image: kql_update.png
+<img width="978" height="536" alt="Screenshot 2025-11-24 144120" src="https://github.com/user-attachments/assets/07bf9b14-1900-4912-8867-95d2ca131f1d" />
 
 🔧 Step 12 — Review the Final Table
 
@@ -132,7 +131,7 @@ Logon type
 
 Number of failed logins
 
-<img width="1560" height="559" alt="Screenshot 2025-11-24 142328" src="https://github.com/user-attachments/assets/1aa97e9e-9c21-4075-9285-d94b095fa454" />
+<img width="978" height="549" alt="Screenshot 2025-11-24 144141" src="https://github.com/user-attachments/assets/d93cd6a1-a4c0-418b-8b65-19aad7e4a2ba" />
 
 🔧 Step 13 — Save the Dashboard
 
