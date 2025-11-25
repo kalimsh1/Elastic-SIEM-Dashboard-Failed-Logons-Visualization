@@ -85,7 +85,7 @@ Rename:
 Logon Type
 
 
-<img width="474" height="556" alt="Screenshot 2025-11-24 141941" src="https://github.com/user-attachments/assets/d075fb13-cc1b-4acc-8a9d-0395180c72b6" />
+<img width="1574" height="560" alt="Screenshot 2025-11-24 143451" src="https://github.com/user-attachments/assets/c4e63f57-b4aa-4e80-b530-fa9abb3be39e" />
 
 🔧 Step 9 — Set Metrics
 
